@@ -16,10 +16,11 @@ The project is bootstrapped using [`create-next-app`](https://github.com/vercel/
     npm run dev
     ```
     
-Open [http://localhost:3000](http://localhost:3000) with your browser to view your Next.js app.
+4. Open [http://localhost:3000](http://localhost:3000) with your browser to view your Next.js app.
 
-    ![advice-generator-app.jpg](Readme%20md%206ac020e9298846069c215f003f8e70cc/advice-generator-app.jpg)
-    
+    ![advice-generator-app](assets/advice-generator-app.webp)
+
+
 
 ## Dockerize Your Application
 
@@ -44,19 +45,19 @@ Open [http://localhost:3000](http://localhost:3000) with your browser to view yo
 2. Set Up Your Back4app Account
 3. Create a Back4app CaaS application 
 
-    
-    ![new-back4app-application.jpg](Readme%20md%206ac020e9298846069c215f003f8e70cc/new-back4app-application.jpg)
+   ![new-back4app-application](assets/new-back4app-application.webp)
     
 4. Link your GitHub account to the Back4app application
     
-    ![link-github.jpg](Readme%20md%206ac020e9298846069c215f003f8e70cc/link-github.jpg)
+    ![link-github](assets/link-github.webp)
     
 5. Select the application’s repository
     
-    ![select-repository.jpg](Readme%20md%206ac020e9298846069c215f003f8e70cc/select-repository.jpg)
+    ![select-repository](assets/select-repository.webp)
     
 6. Deploy the application
     
-    ![deployed-application.jpg](Readme%20md%206ac020e9298846069c215f003f8e70cc/deployed-application.jpg)
+    ![deployed-application](assets/deployed-application.webp)
 
 
+Your Next.js app will now been deployed on the Back4app container platform!
