@@ -1,4 +1,4 @@
-// Layout.tsx
+// layout.tsx
 import React from "react";
 import styles from "../styles/Home.module.css";
 import { Comforter } from "next/font/google";
