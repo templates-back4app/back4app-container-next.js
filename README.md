@@ -1,6 +1,8 @@
 This repository demonstrates dockerizing and deploying a [Next.js](https://nextjs.org/) application to Back4app Containers.
 The project is bootstrapped using [`create-next-app`](https://github.com/vercel/next.js/tree/canary/packages/create-next-app).
 
+To learn more, visit this article [How to Deploy a Next.js Application](https://blog.back4app.com/next-js-deployment/)
+
 ## Getting Started
 
 1. Fork/clone the repository
